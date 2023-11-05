@@ -8,7 +8,7 @@ function Header ({setCurrentPage, currentPage}) {
   return (
     <div className='lg:flex lg:flex-row items-end'>
       <div className="mx-auto container lg:mx-0 col-span-12 lg:col-span-6">
-        <h1 className="drop-shadow-3xl text-3xl font-medium md:text-5xl">Chesney Julian</h1>
+        <h1 className="drop-shadow-3xl text-3xl font-medium md:text-5xl">Justin Dong</h1>
         <h3 className="mt-6 text-xl md:text-2xl">
           Full Stack Web Developer
         </h3>
