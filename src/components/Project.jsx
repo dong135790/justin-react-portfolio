@@ -7,16 +7,28 @@ const projectData = [
     url: 'https://astronome-10022023-9058067b996b.herokuapp.com/',
   },
   {
-    name: 'Weather Dashboard',
-    image: '/assets/images/weather-dashboard.png',
-    github: 'https://github.com/dong135790/weather-forecast-dashboard',
-    url: 'https://dong135790.github.io/weather-forecast-dashboard/',
+    name: 'Swoldemort',
+    image: '/assets/images/',
+    github: 'https://github.com/dong135790/swoldemort',
+    url: 'https://application-2023-07-31-69c69ce85b50.herokuapp.com/login',
+  },
+  {
+    name: 'Digital Museum',
+    image: '/assets/images/',
+    github: 'https://github.com/swatson2000/Digital-Museum.git',
+    url: 'https://swatson2000.github.io/Digital-Museum/',
   },
   {
     name: 'J.A.T.E.',
     image: '/assets/images/weather-dashboard.png',
     github: 'https://github.com/dong135790/pwa-text-editor',
     url: 'https://damp-thicket-22045-f9b7c3017935.herokuapp.com/',
+  },
+  {
+    name: 'Weather Dashboard',
+    image: '/assets/images/weather-dashboard.png',
+    github: 'https://github.com/dong135790/weather-forecast-dashboard',
+    url: 'https://dong135790.github.io/weather-forecast-dashboard/',
   },
   {
     name: 'Note Taker App',
