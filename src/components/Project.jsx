@@ -12,7 +12,18 @@ const projectData = [
     github: 'https://github.com/dong135790/weather-forecast-dashboard',
     url: 'https://dong135790.github.io/weather-forecast-dashboard/',
   },
-
+  {
+    name: 'J.A.T.E.',
+    image: '/assets/images/weather-dashboard.png',
+    github: 'https://github.com/dong135790/pwa-text-editor',
+    url: 'https://damp-thicket-22045-f9b7c3017935.herokuapp.com/',
+  },
+  {
+    name: 'Note Taker App',
+    image: '/assets/images/weather-dashboard.png',
+    github: 'https://github.com/dong135790/note-taker-express',
+    url: 'https://fathomless-springs-33768-db9c5bfb0cd7.herokuapp.com/notes',
+  },
 ]
 
 function Project() {
